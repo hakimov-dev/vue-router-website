@@ -1,4 +1,4 @@
-# vue-router-prep
+# vue-router-website
 
 ## Project setup
 ```
